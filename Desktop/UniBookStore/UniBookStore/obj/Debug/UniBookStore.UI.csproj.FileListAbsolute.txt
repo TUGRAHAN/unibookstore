@@ -1,0 +1,82 @@
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\csc.exe
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\System.Collections.Immutable.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\vbc.exe
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\VBCSCompiler.exe
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\roslyn\VBCSCompiler.exe.config
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\UniBookStore.dll.config
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\UniBookStore.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\UniBookStore.pdb
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Helpers.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Mvc.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Razor.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Webpages.Deployment.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Webpages.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Webpages.Razor.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Razor.xml
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Webpages.xml
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Webpages.Deployment.xml
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Webpages.Razor.xml
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Helpers.xml
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\bin\System.Web.Mvc.xml
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\obj\Debug\UniBookStore.UI.csprojResolveAssemblyReference.cache
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\obj\Debug\UniBookStore.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore\obj\Debug\UniBookStore.pdb
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore\bin\UniBookStore.Data.dll
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore\bin\UniBookStore.Service.dll
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore\bin\EntityFramework.dll
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore\bin\UniBookStore.Data.pdb
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore\bin\UniBookStore.Service.pdb
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore\bin\EntityFramework.xml
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\csc.exe
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\vbc.exe
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\UniBookStore.dll.config
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\UniBookStore.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\UniBookStore.pdb
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\EntityFramework.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Helpers.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Mvc.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Razor.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Webpages.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\UniBookStore.Data.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\UniBookStore.Service.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\UniBookStore.Data.pdb
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\UniBookStore.Service.pdb
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\EntityFramework.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Razor.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Webpages.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Helpers.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\bin\System.Web.Mvc.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\obj\Debug\UniBookStore.UI.csprojResolveAssemblyReference.cache
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\obj\Debug\UniBookStore.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore\obj\Debug\UniBookStore.pdb

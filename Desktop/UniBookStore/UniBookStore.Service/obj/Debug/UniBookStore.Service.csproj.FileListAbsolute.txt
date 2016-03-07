@@ -1,0 +1,24 @@
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\bin\Debug\UniBookStore.Service.dll.config
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\bin\Debug\UniBookStore.Service.dll
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\bin\Debug\UniBookStore.Service.pdb
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\bin\Debug\EntityFramework.dll
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\bin\Debug\UniBookStore.Data.dll
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\bin\Debug\UniBookStore.Data.pdb
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\bin\Debug\EntityFramework.xml
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\obj\Debug\UniBookStore.Service.csprojResolveAssemblyReference.cache
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\obj\Debug\UniBookStore.Service.dll
+C:\Users\burak1\Documents\Visual Studio 2015\Projects\UniBookStore\UniBookStore.Service\obj\Debug\UniBookStore.Service.pdb
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\bin\Debug\UniBookStore.Service.dll.config
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\bin\Debug\UniBookStore.Service.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\bin\Debug\UniBookStore.Service.pdb
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\bin\Debug\EntityFramework.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\bin\Debug\UniBookStore.Data.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\bin\Debug\UniBookStore.Data.pdb
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\bin\Debug\EntityFramework.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\obj\Debug\UniBookStore.Service.csprojResolveAssemblyReference.cache
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\obj\Debug\UniBookStore.Service.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Service\obj\Debug\UniBookStore.Service.pdb

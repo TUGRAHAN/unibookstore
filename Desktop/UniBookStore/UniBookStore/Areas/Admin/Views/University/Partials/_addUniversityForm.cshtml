@@ -1,0 +1,4 @@
+﻿@model University
+@Html.LabelFor(x=>x.UniversityName)
+@Html.TextBoxFor(x => x.UniversityName, new { @class = "form-control" })
+@Html.ValidationMessageFor(x => x.UniversityName)

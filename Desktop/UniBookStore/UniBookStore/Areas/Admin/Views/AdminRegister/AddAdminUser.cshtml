@@ -1,0 +1,70 @@
+﻿
+@{
+    Layout = null;
+}
+
+@model UniBookStore.Areas.Admin.Models.Dto.AdminRegisterDto
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Admin Register</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Areas/Admin/Views/AdminRegister/Style/registerCss.css" rel="stylesheet" />
+</head>
+<body>
+    <a href="/Admin/Anasayfa/"><h2>Anasayfa</h2></a>
+    <br /> 
+    <div id="response">
+
+    </div>
+    @using (Ajax.BeginForm("AddAdminUser", "AdminRegister", new AjaxOptions()
+    {
+        HttpMethod = "Post",
+        OnSuccess = "SuccessFunction"
+    }))
+
+    {
+        <label>Adiniz Soyadiniz</label>
+        @Html.TextBoxFor(x => x.Name)
+        @Html.ValidationMessageFor(x => x.Name)
+        <br />
+        <label>Kullanici Adiniz</label>
+        @Html.TextBoxFor(x => x.UserName)
+        @Html.ValidationMessageFor(x => x.UserName)
+        <br />
+        <label>Emaliniz</label>
+        @Html.TextBoxFor(x => x.Email)
+        @Html.ValidationMessageFor(x => x.Email)
+        <br />
+        <label>Sifreniz</label>
+        @Html.TextBoxFor(x => x.Password, new { type = "password" })
+        @Html.ValidationMessageFor(x => x.Password)
+        <br />
+        <label>Sifre Tekrar</label>
+        @Html.TextBoxFor(x => x.ConfirmPassword, new { type = "password" })
+        @Html.ValidationMessageFor(x => x.ConfirmPassword)
+        <br />
+        <input type="submit" name="Register" value="Kayit Ol" />
+    }
+
+    <script src="~/Scripts/jquery-1.9.1.min.js"></script> @*bootstrap son versiyonu tanir he zaman jquery versiyonu onemli*@
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script>
+        function SuccessFunction(result) {   // result ile arkadan gonderdigimiz json objesini (Home Controller return Success) yakaladik.
+            console.log(result);
+            var response = $("#response");
+            response.attr("class", "");
+            response.removeClass("#response");
+            response.addClass(result.Class);
+            response.html(result.Message);
+            if (result.IsSuccess) {
+                $("form").trigger("reset");
+            }
+        }
+    </script>
+</body>
+</html>

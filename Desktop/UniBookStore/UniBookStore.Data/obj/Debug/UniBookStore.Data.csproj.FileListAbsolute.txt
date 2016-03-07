@@ -1,0 +1,20 @@
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore.Data\bin\Debug\UniBookStore.Data.dll.config
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore.Data\bin\Debug\UniBookStore.Data.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore.Data\bin\Debug\UniBookStore.Data.pdb
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore.Data\bin\Debug\EntityFramework.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore.Data\bin\Debug\EntityFramework.xml
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore.Data\obj\Debug\UniBookStore.Data.csprojResolveAssemblyReference.cache
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore.Data\obj\Debug\UniBookStore.Data.dll
+c:\users\burak1\documents\visual studio 2015\Projects\UniBookStore\UniBookStore.Data\obj\Debug\UniBookStore.Data.pdb
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Data\bin\Debug\UniBookStore.Data.dll.config
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Data\bin\Debug\UniBookStore.Data.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Data\bin\Debug\UniBookStore.Data.pdb
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Data\obj\Debug\UniBookStore.Data.csprojResolveAssemblyReference.cache
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Data\obj\Debug\UniBookStore.Data.dll
+C:\Users\tqrhn\Desktop\UniBookStore\UniBookStore.Data\obj\Debug\UniBookStore.Data.pdb

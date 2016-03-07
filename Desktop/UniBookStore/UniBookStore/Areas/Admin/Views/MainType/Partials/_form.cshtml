@@ -1,0 +1,5 @@
+﻿@model MainType
+@Html.LabelFor(x => x.MainTypeName)
+@Html.TextBoxFor(x => x.MainTypeName, new { @class = "form-control" })
+@Html.ValidationMessageFor(x => x.MainTypeName)
+<br />
